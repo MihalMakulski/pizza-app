@@ -1,2 +1,5 @@
 console.log('rafal');
-// TODO: console log for "michal"
+
+function searchPizzas(id) {
+  console.log('michal');
+}
